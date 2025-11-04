@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Level Up Gamer</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">Level Up Gamer</string>
+    <string name="login_subtitle">¡Bienvenido de nuevo!</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar sesión</string>
+
+    <!-- Product List Screen -->
+    <string name="products">Productos</string>
+
+    <!-- Product Detail Screen -->
+    <string name="add_to_cart">Añadir al carrito</string>
+
+    <!-- Cart Screen -->
+    <string name="my_cart">Mi Carrito</string>
+    <string name="empty_cart">Tu carrito está vacío.</string>
+    <string name="remove_item">Eliminar</string>
+    <string name="total">Total:</string>
+    <string name="checkout">Finalizar compra</string>
+
+    <!-- Profile Screen -->
+    <string name="profile">Perfil</string>
+    <string name="change_photo">Cambiar foto</string>
+
+    <!-- Navigation -->
+    <string name="home">Inicio</string>
+    
+    <!-- Admin Panel -->
+    <string name="admin_panel">Panel de Administrador</string>
+    <string name="add_product">Añadir Producto</string>
+    <string name="edit_product">Editar Producto</string>
+    <string name="logout">Cerrar Sesión</string>
+    <string name="product_name">Nombre del Producto</string>
+    <string name="product_description">Descripción del Producto</string>
+    <string name="price">Precio</string>
+    <string name="save">Guardar</string>
+    <string name="back">Atrás</string>
+
+</resources>
